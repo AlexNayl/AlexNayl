@@ -1,18 +1,21 @@
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/alexnayl/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://alexnayl.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-White?style=for-the-badge&logo=bookstack&logoColor=white&back&color=grey" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=AlexNayl&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
-### Hi, Im Alexander Naylor, a Computer Science student focusing on Data Science.
-My dream career is in space exploration or areospace research, but Im eager to learn no matter where I go!
+### Hi, Im Alexander Naylor, a recent Computer Science graduate focusing on Data Science.
+I'm egear to take my first steps in the software development workforce.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
